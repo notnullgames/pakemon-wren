@@ -2,6 +2,7 @@
 
 This is experiments with [dome](https://domeengine.com/) & [wren](https://wren.io/).
 
+> **IMPORTANT**: This has moved to [a central demo-repo](https://github.com/notnullgames/pakemon-demos/dome)
 
 ## usage
 
